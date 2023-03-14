@@ -1,0 +1,2 @@
+initialise airflow on local server by entering this command
+'airflow webserver'
